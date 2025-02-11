@@ -22,8 +22,8 @@ PCard data for each fiscal year from 2010 to 2015.
 ## Fraud Detection
 #### Benford’s Law Analysis: Check if transaction distributions followed natural patterns.
 ![Image](https://github.com/user-attachments/assets/42510de8-ecea-4705-929c-443eb00f1e4f)
-#### Duplicate Transactions: Check if the credit card company makes a mistake or a vendor submits a payment twice
+#### Duplicate Transactions: Check if the credit card company makes a mistake or a vendor submits a payment twice.
 ![Image](https://github.com/user-attachments/assets/35edfe03-3541-4092-92d1-74a92f6442a6)
-#### Worst Offenders: List 10 employees with the most violations
+#### Worst Offenders: List 10 employees with the most violations.
 ![Image](https://github.com/user-attachments/assets/65d4fdcd-f8e5-42ec-ae6e-f16fc9e6d36c)
 ## Insights
