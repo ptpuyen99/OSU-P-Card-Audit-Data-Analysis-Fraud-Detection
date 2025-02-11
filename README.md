@@ -2,6 +2,7 @@
 This project analyzes purchasing card (P-Card) transactions for Oklahoma State University (OSU) in 2014. The goal is to identify policy violations, fraudulent activities, and spending patterns by applying data analysis techniques to transaction records.
 # Data Structure
 PCard data for each fiscal year from 2010 to 2015. The dataset is ~350 megabytes containing 6 files, 2,281,562 rows of data, and consistent columns but inconsistent formats.
+The analysis was conducted on 2014 dataset.
 # Key Features
 ## Data Cleaning & Preprocessing
 #### Standardized date formats, text fields, and numerical values.
