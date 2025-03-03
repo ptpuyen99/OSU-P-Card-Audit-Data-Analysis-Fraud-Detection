@@ -27,4 +27,9 @@ The analysises were conducted on 2014 dataset.
 ![Image](https://github.com/user-attachments/assets/35edfe03-3541-4092-92d1-74a92f6442a6)
 #### Worst Offenders: List 10 employees with the most violations.
 ![Image](https://github.com/user-attachments/assets/65d4fdcd-f8e5-42ec-ae6e-f16fc9e6d36c)
-## Insights
+## Insights & Conclusion
+This project is a comparison between traditional auditing practices and the adoption of Python for optimizing auditing.
+#### 1. Tradition auditing relies on sampling which may overlook discrepancies while Python allows for full-population testing.
+#### 2. Python’s capabilities in statistical analysis, machine learning, and anomaly detection can provide deeper insights.
+#### 3. Automating audit processes with Python can reduce dependency on manual labor -> lower cost -> improve efficience.
+#### 4. Python notebook allows all the analysises and testings in same page which easy to make notes and keep track of the process.
